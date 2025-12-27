@@ -36,7 +36,7 @@ This app allows users to search for any city's current weather, temperature, hum
 
 ## 🔗 Live Demo
 
->(http://muhmmad-muzammil.github.io/Weather-App/)
+>https://weather-app-muz.netlify.app/
 
 ---
 
@@ -45,10 +45,3 @@ This app allows users to search for any city's current weather, temperature, hum
 **Muhammad-Muzammil**  
 Feel free to connect with me!
 
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** – free for personal and commercial use.
-
----
